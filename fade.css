@@ -1,7 +1,7 @@
 .fade-in {
   opacity: 0;
   transition: opacity 2s ease-in;
-  transform: scale(2.0) translateX(50px);
+  transform: scale(5.0) translateX(200px);
  
 }
 
