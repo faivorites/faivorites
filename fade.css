@@ -4,6 +4,6 @@
 }
 
 .fade-in-out {
-  animation: fadeInOut 10s infinite; /* 10秒ごとに無限に繰り返す */
-  margin-left: 50px; /* 左側に余白を50px設定 */
+  animation: fadeInOut 10s infinite; 
+  margin-left: 50px;
 }
