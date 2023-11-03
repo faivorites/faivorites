@@ -6,5 +6,5 @@
 .fade-in-out {
   animation: fadeInOut 30s infinite; 
   margin-left: 50px;
-  transform: scale(5); 
+  zoom: 4; 
 }
