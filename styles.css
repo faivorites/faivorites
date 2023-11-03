@@ -124,6 +124,8 @@ body {
   padding: 10px 0;
   text-align: center;
   margin-top: auto; 
+  position: absolute;
+  bottom: 0; 
 }
 
 .footer p {
