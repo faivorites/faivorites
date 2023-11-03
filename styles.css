@@ -12,11 +12,6 @@ body {
   color: #333;
 }
 
-.container {
-  max-width: 1170px;
-  margin: auto;
-  padding: 0 15px;
-}
 
 /* Navigation Bar Styles */
 .navbar {
@@ -24,18 +19,28 @@ body {
   color: #ffffff;
 }
 .container {
-  position: relative; /* コンテナを相対位置に */
-  text-align: center; /* 中央寄せ */
-  /* その他のスタイルはそのまま */
+  position: relative; 
+  text-align: left; 
+ 
+}
+
+.content-flex {
+  display: flex; 
+  align-items: left; 
+}
+
+.text-content {
+  flex: 1; 
+  padding-right: 20px; 
 }
 
 .image-container {
-  position: absolute; /* 画像を絶対位置に */
-  width: 100%; /* コンテナ全体の幅 */
-  top: 0; /* コンテナの上端に配置 */
-  left: 0; /* コンテナの左端に配置 */
+  position: absolute; 
+  width: 100%; 
+  top: 0; 
+  left: 0; 
   display: flex;
-  justify-content: center; /* Flexboxを使って中央寄せ */
+  justify-content: center; 
 }
 
 .navbar ul {
