@@ -4,7 +4,7 @@
 }
 
 .fade-in-out {
-  animation: fadeInOut 10s infinite; 
+  animation: fadeInOut 30s infinite; 
   margin-left: 50px;
-  transform: scale(3); 
+  transform: scale(5); 
 }
