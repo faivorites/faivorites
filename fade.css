@@ -1,10 +1,9 @@
-.fade-in {
-  opacity: 0;
-  transition: opacity 2s ease-in;
-  transform: scale(5.0) translateX(200px);
- 
+@keyframes fadeInOut {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
 }
 
-.fade-in.visible {
-  opacity: 1;
+.fade-in-out {
+  animation: fadeInOut 10s infinite; /* 10秒ごとに無限に繰り返す */
+  margin-left: 50px; /* 左側に余白を50px設定 */
 }
