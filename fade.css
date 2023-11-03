@@ -5,8 +5,8 @@
 
 .fade-in-out {
   animation: fadeInOut 300s infinite; 
-  margin-top: 50px;
-  margin-left: 200px;
+  margin-top: 10%;
+  margin-left: 15%;
   max-width: 100%; 
   zoom: 2.5; 
 
