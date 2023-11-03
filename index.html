@@ -6,13 +6,13 @@
   <title>Your Project Name</title>
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-
+ <link rel="stylesheet" href="fade.css">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="container mt-5">
     <h1>Faviroites</h1>
-    <p>Welcome to the official page of Favivorites</p>
+    <p>Welcome to the official page of Faivorites</p>
 
   </div>
 
@@ -22,4 +22,13 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
+
+   <img src="./image.png" alt="Your Image" class="fade-in" id="fade-in-image">
+
+  <script>
+    window.addEventListener('load', function() {
+      // ページのロードが完了したらフェードインクラスを追加
+      document.getElementById('fade-in-image').classList.add('visible');
+    });
+  </script>
 </html>
