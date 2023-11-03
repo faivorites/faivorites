@@ -23,6 +23,20 @@ body {
   background-color: #007bff;
   color: #ffffff;
 }
+.container {
+  position: relative; /* コンテナを相対位置に */
+  text-align: center; /* 中央寄せ */
+  /* その他のスタイルはそのまま */
+}
+
+.image-container {
+  position: absolute; /* 画像を絶対位置に */
+  width: 100%; /* コンテナ全体の幅 */
+  top: 0; /* コンテナの上端に配置 */
+  left: 0; /* コンテナの左端に配置 */
+  display: flex;
+  justify-content: center; /* Flexboxを使って中央寄せ */
+}
 
 .navbar ul {
   list-style: none;
