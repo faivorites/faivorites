@@ -7,5 +7,7 @@
   animation: fadeInOut 300s infinite; 
   margin-top: 50px;
   margin-left: 200px;
+  max-width: 100%; 
   zoom: 2.5; 
+
 }
