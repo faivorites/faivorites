@@ -136,11 +136,12 @@ body {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-  .navbar ul {
+  .row {
     flex-direction: column;
   }
 
-  .hero {
-    padding: 50px 0;
+  .text-content,
+  .fade-in-out {
+    margin-bottom: 15px;
   }
 }
