@@ -4,12 +4,11 @@
 }
 
 .fade-in-out {
-  //zoom: 2; 
+  zoom: 1.5; 
   max-width: 100%; 
   max-height: 100%; 
   animation: fadeInOutScale 300s infinite; 
   top: 100%; 
   left: 20%; 
-  
-  transform-origin: center center; 
+
 }
