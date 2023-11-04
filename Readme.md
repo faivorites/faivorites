@@ -64,10 +64,10 @@ The contents of these regulations are subject to change without notice.
 
 17. Any other act that the Company deems inappropriate.
 
-### Purpose of use of personal information
+## Purpose of use of personal information
 Personal information will only be used to send e-mails and materials to you in response to our communications, business information, and questions.
 
-### Prohibition of disclosure and provision of personal information to third parties
+## Prohibition of disclosure and provision of personal information to third parties
 
 1) Personal information outside of my country shall be destroyed after use for the above purposes.
 
@@ -79,19 +79,19 @@ Personal information will only be used to send e-mails and materials to you in r
 
 - When it is necessary to disclose the information based on laws and regulations
 
-### Inquiry of the person in question
+## Inquiry of the person in question
 
 If you wish to inquire about, correct, or delete your personal information, we will respond to your request after confirming your identity.
 
-### Management of Personal Information
+## Management of Personal Information
 
 In order to keep users' personal information accurate and up-to-date, and to prevent unauthorized access, loss, damage, falsification, or leakage of personal information, we will take necessary measures such as maintaining a security system, developing a management system, and thoroughly educating related personnel, and we will also strive to strictly manage personal information by applying safety measures.
 
-### Security measures for personal information
+## Security measures for personal information
 
 In order to ensure the accuracy and safety of personal information, we take all possible measures for security.
 
-### Compliance and Review of Laws and Regulations
+## Compliance and Review of Laws and Regulations
 
 According to complying with my country's laws and regulations and other norms applicable to personal information in our possession, we will review the contents of this policy from time to time and strive to improve it.
 
