@@ -10,6 +10,6 @@
   animation: fadeInOutScale 300s infinite; 
   top: 100%; 
   left: 20%; 
-  transform: translate(-50%, -50%) scale(1); 
+  
   transform-origin: center center; 
 }
