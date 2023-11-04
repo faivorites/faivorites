@@ -92,7 +92,12 @@ body {
   color: #333;
   margin-bottom: 20px;
 }
-
+.main p {
+  font-family: 'Arial', sans-serif;
+  font-size: 17px;
+  color: #333;
+  margin-bottom: 20px;
+}
 .card {
   background: #ffffff;
   border: none;
